@@ -1,5 +1,6 @@
-dvanced HTML
-image
+advanced HTML
+
+![17287579493248498742998534442881](https://github.com/user-attachments/assets/62bc8712-1691-421c-abd5-e97f7467df7c)
 
 Welcome!
 
@@ -39,7 +40,10 @@ A README.md  file at the root of the folder of the project is mandatory
 Your code should be W3C compliant and validate with W3C-Validator
 Techium will be the name of the company we will use across our webpages.
 Sitemap of the project
-image
+![17287579766163392242832310434390](https://github.com/user-attachments/assets/b3112575-6f11-4c71-8385-5bae4891cff8)
+
 
 Wireframe of Techium project
+
+![17287580155923784027350163680669](https://github.com/user-attachments/assets/6c4a0264-f974-4e3d-bf1d-9f2d00db0c16)
 
