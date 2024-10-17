@@ -12,6 +12,7 @@ How to block requests
 How to know how much JavaScript or CSS is used on a page
 How to detect 404 issues
 How to move elements on a webpage
+
 0. Responsive device
 Go to https://dev-tools.hbtn.info/
 1. Change the background color
@@ -82,5 +83,7 @@ Go to https://dev-tools.hbtn.info/
 Go to https://dev-tools.hbtn.info/
 34. Expiration date
 Go to https://dev-tools.hbtn.info/
+
 Author
+
 Naja'atu A Umar
